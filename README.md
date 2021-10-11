@@ -1,4 +1,4 @@
-<h1 align='center'>Tutorial-Mod</h1>
+<h1 align='center'><b>Tutorial-Mod</b></h1>
 
 -------------------------------------------
 Source installation information for modders
